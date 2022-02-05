@@ -53,12 +53,77 @@ Grades
 
 Your grade will be based on:
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Attendance and participation | 20% |
-| Preparation (homework) | 15% |
-|  {{< br >}}{{< br >}} Five shorter written assignments: {{< br >}}{{< br >}} Extended definition for a general audience (2 pp.) {{< br >}}{{< br >}} Resume and cover letter responding to a particular ad (2+ pp.) {{< br >}}{{< br >}} Response paper (quote, paraphrase, summarize, comment) (2-3 pp.) {{< br >}}{{< br >}} Proposal Memo with Bibliography /References (3 pp.) {{< br >}}{{< br >}} Abstract and Introduction to final paper (3 pp.) {{< br >}}{{< br >}}  | 50% |
-|  {{< br >}}{{< br >}} Final paper (and brief presentation): {{< br >}}{{< br >}} Approximately 15 pp. plus Works Cited/References page. This can be a stand-alone research paper, or it can be a portion of your thesis. You may work on a paper in connection with another class **IF I receive email from the instructor that this is acceptable to him/her**_._ {{< br >}}{{< br >}}  | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Preparation (homework)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Five shorter written assignments:
+
+Extended definition for a general audience (2 pp.)
+
+Resume and cover letter responding to a particular ad (2+ pp.)
+
+Response paper (quote, paraphrase, summarize, comment) (2-3 pp.)
+
+Proposal Memo with Bibliography /References (3 pp.)
+
+Abstract and Introduction to final paper (3 pp.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Final paper (and brief presentation):
+
+Approximately 15 pp. plus Works Cited/References page. This can be a stand-alone research paper, or it can be a portion of your thesis. You may work on a paper in connection with another class **IF I receive email from the instructor that this is acceptable to him/her**_._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **No late papers or homework, please**. If there is a dire emergency, speak to me personally so we can work something out. Please don't just disappear or simply fail to turn something in. Always talk to me and ask for an extension.
 
