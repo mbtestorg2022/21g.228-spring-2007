@@ -99,7 +99,7 @@ Resumes and cover letters: cultural differences
 
 Strategies for cover letters
 
-Homework: Pick up Career Development Workbook (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB](http://web.mit.edu/career/www/students/workbook.pdf)) in the Career Center. Find a job description/internship position for which you can apply online or in print - bring 2 copies to class.
+Homework: Pick up Career Development Workbook ([PDF - 2.2 MB](http://web.mit.edu/career/www/students/workbook.pdf)) in the Career Center. Find a job description/internship position for which you can apply online or in print - bring 2 copies to class.
 
 
 {{< tdclose >}}
